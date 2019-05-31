@@ -6,7 +6,9 @@
     "extends": "airbnb-base",
     "globals": {
         "document": true,
-        "console": true
+        "console": true,
+        "window": true,
+        "Audio": true
     },
     "rules": {
         "no-console": "off"
